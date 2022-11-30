@@ -12,6 +12,6 @@
  
 ## Pré-visualização:
 
-[pokedex](https://js-developer-pokedex-one.vercel.app/)
+<p align="center">[pokedex](https://js-developer-pokedex-one.vercel.app/)</p>
 ![preview](image/image-readme.png)
 
