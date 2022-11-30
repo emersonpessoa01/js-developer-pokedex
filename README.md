@@ -12,6 +12,6 @@
  
 ## Pré-visualização:
 
-[pokedex](url do deploy)
+[pokedex](https://js-developer-pokedex-one.vercel.app/)
 ![preview](image/image-readme.png)
 
