@@ -140,9 +140,9 @@
   margin: 0.25rem 0;
   font-size: 1rem;
   color: #fff;
-  background-color: #6c79db;
+  background-color: #77c850;
   border: none;
-  border-radius: 1rem;
+  border-radius: 0.5rem;
   cursor: pointer;
-  box-shadow: inset -2px 3px 4px rgba(0, 0, 0, 0.7019607843);
+  box-shadow: inset -2px 3px 4px #98d5d7;
 }/*# sourceMappingURL=content.css.map */
